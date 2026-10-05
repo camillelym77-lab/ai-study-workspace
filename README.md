@@ -1,5 +1,9 @@
 # AI Study Workspace
 
+## Live Demo
+
+Try the app here: https://ai-study-workspace-yimeng.streamlit.app
+
 A lightweight AI/NLP product prototype that turns fragmented course notes into structured study context.
 
 **Built as a sample project for Product & Technology internship applications.**
