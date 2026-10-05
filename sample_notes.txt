@@ -1,0 +1,12 @@
+AI Product Management – Sample Notes
+
+Large Language Models (LLMs) generate text by predicting tokens based on context.
+Prompt engineering structures instructions, context, constraints and output format.
+Retrieval-Augmented Generation (RAG) retrieves relevant external information before generation.
+Embeddings represent text as vectors so semantically similar content can be compared.
+AI agents combine a model with tools, memory or state, and a workflow to complete tasks.
+A chatbot mainly responds to messages, while an agent may plan steps and use external tools.
+AI product evaluation should consider quality, groundedness, task success, latency, cost and user satisfaction.
+Hallucination occurs when a model generates unsupported or incorrect information.
+For high-trust use cases, source citations and fallback mechanisms can improve reliability.
+Product managers should define where AI creates user value and where rules or human review are more appropriate.
