@@ -110,6 +110,17 @@ This project demonstrates:
 - AI evaluation thinking
 - Iterative product development
 
+## Screenshots
+
+### 1. Add Notes
+![Add Notes](screenshots/01-add-notes.png)
+
+### 2. Study Workspace
+![Study Workspace](screenshots/02-study-workspace.png)
+
+### 3. Ask Workspace
+![Ask Workspace](screenshots/03-ask-workspace.png)
+
 ---
 
 Created by **Yimeng Li**  
